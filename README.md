@@ -1,5 +1,5 @@
 <h1>Overview</h1>
-<p>This is a SCSS site for displaying highend houses that realtors whish to cell. This site uses CSS grid layout</p>
+<p>This is a SCSS site for displaying highend houses that realtors wish to sell. This site uses CSS grid layout</p>
 
 <h2>To Run</h2>
     <ul>
